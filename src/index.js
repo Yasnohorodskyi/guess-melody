@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './component/app/app';
+import App from './components/app/app';
 
 const Settings = {
   ERRORS_COUNT: 3
