@@ -7,7 +7,7 @@ npm i <package>@<version> -E
 npm i react@16.12 -E
 ``` 
 
-## dependencies
+## dependencies -E
 
 * axios@0.19
 * history@4.10
@@ -20,7 +20,7 @@ npm i react@16.12 -E
 * redux-thunk@2.3
 * reselect@4
 
-## devDependencies
+## devDependencies -D
 
 * @babel/core@7.8
 * @babel/preset-env@7.8
